@@ -6,7 +6,7 @@ body {
 }
 
 .sectionA {
-  background-image: url(/images/image.jpeg);
+  background-image: url(image.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -340,7 +340,7 @@ span {
   margin-right: 3rem;
 }
 .cover1 {
-  background: url(/images/image12.jpeg);
+  background: url(image12.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -397,7 +397,7 @@ span {
   flex-direction: column;
 }
 .white-bg {
-  background: url(/images/new.jpeg);
+  background: url(new.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -860,7 +860,7 @@ margin-top: 1px;
     font-size: 10px;
   }
   .sectionA {
-    background-image: url(/images/image.jpeg);
+    background-image: url(image.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -1016,7 +1016,7 @@ margin-top:1rem;
     margin-left: 4rem;
   }
   .sectionA {
-    background-image: url(/images/image.jpeg);
+    background-image: url(image.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 150vh;
@@ -1043,7 +1043,7 @@ margin-top:1rem;
     width: 105%;
   }
   .cover1 {
-    background: url(/images/image12.jpeg);
+    background: url(image12.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
